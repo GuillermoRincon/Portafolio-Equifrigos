@@ -1,0 +1,4 @@
+[AutoRun]
+OPEN=STARTDOC.EXE index.html
+ICON=equifrigos.ico
+LABEL=Equifrigos
